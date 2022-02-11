@@ -39,7 +39,7 @@ The first thing we need to do is commit the changes we've made to our **resume**
    > Log in to Azure using the same account used to activate your free account.
 
 2. Follow the prompts to log-in to your Azure Account.
-3. Once you have successfully logged in, you will see in the bottom area Azure: <user>@outlook.com
+3. Once you have successfully logged in, you will see in the bottom area Azure: {username}@outlook.com
    ![login](./images/login_verify.png)
 4. Click on your email ID as shown in the above image, you will be prompted to select the subscription. Select your subscription. And click on Ok.
    ![select_subscription](./images/select_subscription.png)
