@@ -6,7 +6,7 @@ Now that you have your basic resume crafted in [HTML](./create-html.md) and [CSS
 
 The first thing we need to do is commit the changes we've made to our **resume** folder to GitHub. This will upload all of the resume content that we added to our repository/folder, so we can use it for our website.
 
-> [!NOTE]
+> NOTE:
 > Make sure your HTML and CSS files are in a folder called resume on your local computer.
 
 1. Select the **Source Control** icon on the left-hand side Activity Bar. Selecting it will open a new blade, it will show you two options, select `Publish to GitHub` as follows:
@@ -69,3 +69,9 @@ This module requires an Azure Subscription, you can obtain a free Azure subscrip
 10. Once the deployment is complete, you can navigate directly to your website.
 11. To view the website in the browser, right-click on the project in the Static Web Apps extension, and select Browse Site.
     ![browseWebsite](./images/browsewebsite.png)
+
+   
+   
+## Summary
+
+Congratulations! You have successfully created a resume website using HTML, CSS, VS Code, and Azure Static Web Apps! You can continue to grow your web development skills by modifying this page, or exploring [content on Microsoft Learn](https://docs.microsoft.com/learn/paths/web-development-101/).
