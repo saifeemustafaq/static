@@ -17,11 +17,9 @@ The first thing we need to do is commit the changes we've made to our **resume**
    ![select_files](./images/select_files.png)
 4. Once you create the repo, your files will be pushed to the new repo. You can check it by going to https://github.com/<github_username>/resume
 
-## Create a Static Web App
+> Now that you've created your GitHub repository, you can create a Static Web Apps instance from the Azure portal.
 
-Now that you've created your GitHub repository, you can create a Static Web Apps instance from the Azure portal.
-
-This module requires an Azure Subscription, you can obtain a free Azure subscription from aka.ms/Azure4Students to complete the exercise. Before proceeding, please make sure you have a subscription.
+> This module requires an Azure Subscription, you can obtain a free Azure subscription from [aka.ms/Azure4Students](aka.ms/Azure4Students) to complete the exercise. Before proceeding, please make sure you have a subscription.
 
 ## Install the Azure Static Web Apps extension for Visual Studio Code
 
@@ -35,7 +33,7 @@ This module requires an Azure Subscription, you can obtain a free Azure subscrip
 
 1. In Visual Studio Code, sign in to Azure by selecting **View** > **Command Palette**, and entering **Azure: Sign In**.
 
-   > [!IMPORTANT]
+   > IMPORTANT NOTE:
    > Log in to Azure using the same account used to activate your free account.
 
 2. Follow the prompts to log-in to your Azure Account.
