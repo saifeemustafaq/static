@@ -2,6 +2,8 @@
 
 Now that you have your basic resume crafted in [HTML](./create-html.md) and [CSS](./add-style.md), let's work on putting your resume on a website. To do this, we'll use Azure Static Web App, which allows you to create a website directly from a repository on GitHub.
 
+> You need Visual Studio Code installed on your physical computer.
+
 ## Commit your changes
 
 The first thing we need to do is commit the changes we've made to our **resume** folder to GitHub. This will upload all of the resume content that we added to our repository/folder, so we can use it for our website.
